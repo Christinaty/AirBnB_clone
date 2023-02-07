@@ -3,21 +3,21 @@
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
-<h1 align="center">HolbertonBnB</h1>
+<h1 align="center">HBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
 
 ## Description :house:
 
-HolbertonBnB is a complete web application, integrating database storage, 
+HBnB is a complete web application, integrating database storage, 
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 
 ## Classes :cl:
 
-HolbertonBnB utilizes the following classes:
+HBnB utilizes the following classes:
 
 |     | BaseModel | FileStorage | User | State | City | Amenity | Place | Review |
 | --- | --------- | ----------- | -----| ----- | -----| ------- | ----- | ------ |
@@ -40,12 +40,12 @@ corresponding changes in the `file.json`.
 ## Console :computer:
 
 The console is a command line interpreter that permits management of the backend 
-of HolbertonBnB. It can be used to handle and manipulate all classes utilized by 
+of HBnB. It can be used to handle and manipulate all classes utilized by 
 the application (achieved by calls on the `storage` object defined above).
 
 ### Using the Console
 
-The HolbertonBnB console can be run both interactively and non-interactively. 
+The HBnB console can be run both interactively and non-interactively. 
 To run the console in non-interactive mode, pipe any command(s) into an execution 
 of the file `console.py` at the command line.
 
@@ -91,7 +91,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+The HBnB console supports the following commands:
 
 * **create**
   * Usage: `create <class>`
@@ -278,5 +278,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* ** Christina Adegbaju** <[christinaty](https://github.com/christinaty)>
+* **Christina Adegbaju** <[christinaty](https://github.com/christinaty)>
 * **Gbenga Elegbede** <[serena0012](https://github.com/serena0012)>
