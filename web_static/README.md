@@ -2,7 +2,7 @@
 
 ![HNBN](https://github.com/nitaly31/AirBnB_clone/blob/master/web_static/images/HBNB-HolbertonAirbnb.png)
 
-### 📝 Descripción
+### 📝 Description
 ***
 __Airbnb__ is an online platform that connects people who have a home to offer, with people who need a place to stay temporarily.
 
@@ -117,7 +117,7 @@ the console contains the entry point of the command interpreter.
 ### 🛠️ Installation
 ***
 1. Clone this repository:
-`https://github.com/nitaly31/AirBnB_clone.git`
+`git@github.com:Christinaty/AirBnB_clone.git`
 2. Access AirBnb directory:
 `cd AirBnB_clone`
 3. Run hbnb(interactively)
