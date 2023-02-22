@@ -29,7 +29,7 @@ HBnB utilizes the following classes:
 ## Storage :baggage_claim:
 
 The above classes are handled by the abstracted storage engine defined in the 
-[FileStorage](./models/engine/file_storage.py) class.
+[FileStorage](./models/engine/file_storage.py) classes
 
 Every time the backend is initialized, HolbertonBnB instantiates an instance of 
 `FileStorage` called `storage`. The `storage` object is loaded/re-loaded from 
